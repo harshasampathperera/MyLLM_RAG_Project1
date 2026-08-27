@@ -1,6 +1,6 @@
 import chromadb
 import ollama
-
+# Code by Harsha sampath perera 27/08/2026
 # Connect to ChromaDB
 client = chromadb.PersistentClient(path="./chroma_db")
 
