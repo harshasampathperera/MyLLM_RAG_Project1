@@ -1,6 +1,6 @@
 import chromadb
 import ollama
-
+#done by Harsha Sampath 27/08/2026
 # -----------------------------
 # 1. Connect to ChromaDB
 # -----------------------------
