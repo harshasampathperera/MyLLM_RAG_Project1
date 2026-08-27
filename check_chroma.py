@@ -1,5 +1,5 @@
 import chromadb
-
+#add by harsha
 # Connect to ChromaDB
 client = chromadb.PersistentClient(path="./chroma_db")
 
