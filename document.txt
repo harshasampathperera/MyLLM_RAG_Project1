@@ -1,0 +1,17 @@
+Power BI is a business intelligence and data visualization platform developed by Microsoft.
+
+Power BI allows users to connect to different data sources such as SQL Server, Excel, SharePoint, Snowflake and cloud services.
+
+Power BI reports contain visualizations such as charts, tables, cards and maps.
+
+A Power BI dataset contains the data and model used by reports.
+
+Power BI uses DAX for creating calculated columns and measures.
+
+London Stock Exchange Group (LSEG) uses Power BI for business intelligence, data analysis and reporting..
+
+Power BI can connect to SQL Server using Import mode or DirectQuery mode.
+
+Import mode loads data into the Power BI model.
+
+DirectQuery allows Power BI to query the source database when users interact with the report.
